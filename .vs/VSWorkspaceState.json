@@ -1,10 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\MarlinSatelliteDataProcessor",
-    "\\MarlinSatelliteDataProcessor\\bin",
-    "\\MarlinSatelliteDataProcessor\\Properties"
+    ""
   ],
-  "SelectedNode": "\\MarlinSatelliteDataProcessor\\MarlinSatelliteDataProcessor.csproj",
+  "SelectedNode": "\\MarlinSatelliteDataProcessor.sln",
   "PreviewInSolutionExplorer": false
 }
